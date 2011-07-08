@@ -1,6 +1,8 @@
 To run, execute
 
-    python main.py [dimensions] [epsilon]
+    python main.py [dimensions] [epsilon] > out.txt
+
+    python evaluate.py eriksson_test_target.dhr out.txt
     
     (note, pass dimensions = "auto" to use the automatically chosen dimension)
 
