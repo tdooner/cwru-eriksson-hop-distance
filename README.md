@@ -20,10 +20,10 @@ Common file format:
     which is filled as much as possible. Each row and column
 
 Files included:
-    eriksson_test_target.dhr - Contains measured data between these hosts, for accuracy determination
 
-    mSubsetMatrix.dhr - Contains a 29x29 complete matrix of hop data between those IP addresses
+eriksson\_test\_target.dhr - Contains measured data between these hosts, for accuracy determination
 
-    matrix_H.dhr - Contains a matrix which has (m) rows corresponding to mSubsetMatrix.dhr and columns
-        corresponding to eriksson_test_target.dhr (n).
+mSubsetMatrix.dhr - Contains a 29x29 complete matrix of hop data between those IP addresses
+
+matrix\_H.dhr - Contains a matrix which has (m) rows corresponding to mSubsetMatrix.dhr and columns corresponding to eriksson\_test\_target.dhr (n).
 
